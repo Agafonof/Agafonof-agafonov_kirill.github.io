@@ -1,0 +1,145 @@
+body {
+  background-image: url(../img/back.jpeg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: aliceblue;
+  max-width: max-content;
+  padding: 5px 15px;
+  text-shadow: 2px 2px 4px black;
+}
+
+div {
+  border: 0px solid transparent;
+  background-image: url(../img/p.jpeg);
+  background-size: cover;
+}
+
+.navi {
+  border: 1px solid white;
+  position: sticky;
+  top: 10px;
+}
+
+img.prof {
+  width: 250px;
+  border-radius: 50%;
+  border: 2px solid white;
+}
+
+a {
+  text-decoration: none;
+  padding: 0 40px 0 0;
+  color: white;
+  font-weight: 800;
+}
+
+h1 {
+  text-align: center;
+  margin-top: 10px;
+  margin-bottom: 0px;
+}
+
+h2,
+h3 {
+  text-align: center;
+  padding: 20px;
+  margin: 0px;
+}
+
+p {
+  text-align: justify;
+  text-indent: 20px;
+}
+
+h2 {
+  background-image: url(../img/dark2.jpeg);
+  font-size: 30px;
+}
+
+h3 {
+  background-image: url(../img/dark.jpeg);
+  padding: 5px 0;
+}
+
+.navi {
+  background-image: url(../img/navi.avif);
+  background-size: cover;
+}
+
+.header {
+  margin-top: 20px;
+  border-radius: 10px 10px 0 0;
+  background-image: none;
+}
+
+.year {
+  text-align: left;
+  text-indent: 10px;
+}
+
+.top {
+  text-align: center;
+  line-height: 25px;
+  font-weight: 500;
+  font-size: 35px;
+  padding: 10px 0 10px;
+  margin-bottom: 50px;
+  background-image: none;
+  background-repeat: no-repeat;
+  background-size: cover;
+  border: 2px solid white;
+  text-shadow: 2px 2px 4px black;
+}
+
+.str {
+  list-style: none;
+}
+
+li {
+  text-align: center;
+  padding: 5px 0;
+  font-size: 20px;
+}
+
+img.icon {
+  width: 50px;
+  text-align: center;
+}
+
+img.port {
+  width: 300px;
+  text-align: center;
+  padding: 0;
+}
+
+.contacts,
+.port {
+  text-align: center;
+  padding-left: 40px;
+}
+
+.contacts {
+  padding: 10px 0px 5px;
+}
+
+.js {
+  font-size: 20px;
+}
+
+.age {
+  font-size: 25px;
+}
+
+.footer {
+  text-align: center;
+  margin-top: 30px;
+  margin-left: 177px;
+}
+
+p {
+  margin: 0px;
+  padding: 16px 10px;
+  font-size: 20px;
+  color: black;
+  text-shadow: none;
+}
